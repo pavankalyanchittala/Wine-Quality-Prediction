@@ -1,4 +1,6 @@
 # Wine-Quality-Prediction
+# TASK-2
+## 2) Wine Quality Prediction : Machine Learning model to predict the quality of wine using linear regression
 
 ![Wine Quality Prediction (ML)- Jupyter Notebook](https://github.com/pavankalyanchittala/Wine-Quality-Prediction/assets/117903644/403b7a0c-99e9-457b-9ad0-9e34512ddd12)
 
